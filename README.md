@@ -8,9 +8,14 @@ Cat display app developed in React consuming The Cat API
 - Can upload new cat
 - Can register a vote
 - Can set favorite or remove favorite
+- Can delete the uploaded cat
 - cypress e2e test integrated
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `npm install`
+
+Make sure you install all dependencies before launching the app.
 
 ## Available Scripts
 
@@ -30,3 +35,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run test:e2e`
+
+Execute the end-to-end tests written using Cypress
