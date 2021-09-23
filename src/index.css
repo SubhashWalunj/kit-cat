@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ant-btn.app-primary-btn {
+  background-color: #FC7E29;
+  border: none;
+  color: white;
+}
